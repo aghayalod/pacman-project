@@ -1,4 +1,4 @@
-# pacman-project
+# Pacman Project
 This project explores various models across artificial intelligence and applying them using various forms of PacMan to judge their performance.
 
 Code base: UC Berkeley - Reinforcement learning project
